@@ -21,3 +21,5 @@ Troubleshooting:
 - If you're having trouble saving, ensure that the variable "savelocation" is equal to a real PATH to a folder. The default is set as ~ which should be the home directory.
 - If the progam can't find a real path for the F1 dimension spectrum (either because it's a bad path or you just didn't put it) there will be a message in the command line, both when you load data and when you plot the graph.
 - If you don't input correct paths for the F2 dimension or the 2D data, there will also be a message in the command line, then an error will show.
+
+If you still have issues, feel free to contact me at lgordon@ccny.cuny.edu.
